@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+p {
+    background-color: yellow;
+    color: blue;
+    }
+</style>
 <h1> Ciao a tutti! </h1>
