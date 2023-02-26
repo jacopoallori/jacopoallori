@@ -66,7 +66,7 @@
 
 
 
-
+<!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacopoallori&show_icons=true&locale=en&layout=compact" alt="jacopoallori" />
 </p>
@@ -74,5 +74,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacopoallori&show_icons=true&locale=en" alt="jacopoallori" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacopoallori&" alt="jacopoallori" /></p>
-
+-->
 </div>
