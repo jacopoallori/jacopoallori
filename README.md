@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center">
 <h1 align="center">Hi 👋, I'm Jacopo</h1>
 <h3 align="center">A passionate full stack developer from Italy</h3>
 
@@ -44,3 +44,5 @@ Join Community
 Discord of the community
 Developed in India 🇮🇳
 Buy Me A Coffee
+
+</div>
